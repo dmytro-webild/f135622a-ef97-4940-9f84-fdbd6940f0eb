@@ -66,7 +66,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/flat-lay-composition-with-hot-pepperoni-pizza-wooden-table_632805-19.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/flat-lay-composition-with-hot-pepperoni-pizza-wooden-table_632805-19.jpg?_wi=1"
       imageAlt="hot fresh pepperoni pizza"
     />
   </div>
@@ -79,7 +79,7 @@ export default function LandingPage() {
       description="Since our founding, we have dedicated ourselves to perfecting the NY-style thin crust. We bring tradition and taste to every table."
       subdescription="Come experience why we are the city's favorite slice."
       icon={Utensils}
-      imageSrc="http://img.b2bpic.net/free-photo/confident-young-indian-man-black-shirt-sitting-pizzeria-with-pizza_627829-5493.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/confident-young-indian-man-black-shirt-sitting-pizzeria-with-pizza_627829-5493.jpg?_wi=1"
       imageAlt="pizza restaurant interior modern"
       mediaAnimation="slide-up"
     />
@@ -96,19 +96,19 @@ export default function LandingPage() {
           id: "p1",
           name: "Classic Pepperoni",
           price: "$18",
-          imageSrc: "http://img.b2bpic.net/free-photo/delicious-mushroom-pizza-with-cheese-marble_114579-15513.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/delicious-mushroom-pizza-with-cheese-marble_114579-15513.jpg?_wi=1",
         },
         {
           id: "p2",
           name: "Fresh Margherita",
           price: "$16",
-          imageSrc: "http://img.b2bpic.net/free-photo/set-italian-food_23-2147772120.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/set-italian-food_23-2147772120.jpg?_wi=1",
         },
         {
           id: "p3",
           name: "Meat Lovers",
           price: "$22",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-delicious-pizza-arrangement_23-2149333837.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-delicious-pizza-arrangement_23-2149333837.jpg?_wi=1",
         },
         {
           id: "p4",
@@ -147,7 +147,7 @@ export default function LandingPage() {
           quote: "The best thin crust in NYC, hands down.",
           tag: "Fan",
           avatarSrc: "http://img.b2bpic.net/free-photo/young-pretty-woman-eating-pizza-bar_1303-19913.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/flat-lay-composition-with-hot-pepperoni-pizza-wooden-table_632805-19.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/flat-lay-composition-with-hot-pepperoni-pizza-wooden-table_632805-19.jpg?_wi=2",
           imageAlt: "happy customer eating pizza",
         },
         {
@@ -158,7 +158,7 @@ export default function LandingPage() {
           quote: "Flavorful ingredients and perfect crust.",
           tag: "Reviewer",
           avatarSrc: "http://img.b2bpic.net/free-photo/would-you-like-some-salad-dear_637285-12955.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/confident-young-indian-man-black-shirt-sitting-pizzeria-with-pizza_627829-5493.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/confident-young-indian-man-black-shirt-sitting-pizzeria-with-pizza_627829-5493.jpg?_wi=2",
           imageAlt: "happy customer eating pizza",
         },
         {
@@ -169,7 +169,7 @@ export default function LandingPage() {
           quote: "Always fresh and hot. Great vibes.",
           tag: "Fan",
           avatarSrc: "http://img.b2bpic.net/free-photo/portrait-man-black-suit_23-2148401442.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/delicious-mushroom-pizza-with-cheese-marble_114579-15513.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/delicious-mushroom-pizza-with-cheese-marble_114579-15513.jpg?_wi=2",
           imageAlt: "happy customer eating pizza",
         },
         {
@@ -180,7 +180,7 @@ export default function LandingPage() {
           quote: "Authentic NYC pizza at its finest.",
           tag: "Reviewer",
           avatarSrc: "http://img.b2bpic.net/free-photo/glad-smiling-woman-holds-tasty-pizza-indicates-with-thumb-aside-as-shows-place-where-she-bought-it-advertises-pizzeria-wears-red-bandana-white-shirt-isolated-yellow-wall_273609-28924.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/set-italian-food_23-2147772120.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/set-italian-food_23-2147772120.jpg?_wi=2",
           imageAlt: "happy customer eating pizza",
         },
         {
@@ -191,7 +191,7 @@ export default function LandingPage() {
           quote: "Can't get enough of their pepperoni slice.",
           tag: "Fan",
           avatarSrc: "http://img.b2bpic.net/free-photo/cheerful-friends-sitting-cafe-eating-drinking-alcohol_171337-19735.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-delicious-pizza-arrangement_23-2149333837.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-delicious-pizza-arrangement_23-2149333837.jpg?_wi=2",
           imageAlt: "happy customer eating pizza",
         },
       ]}
